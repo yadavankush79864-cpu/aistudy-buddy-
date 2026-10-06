@@ -1,0 +1,6 @@
+{
+  "name": "AI Study Buddy",
+  "description": "Your personal AI study and revision assistant for college students preparing for exams.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
